@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://count.getloli.com/@hushino?name=hushino&theme=original-new&darkmode=auto"/>
+    <img src="https://count.getloli.com/@hushino?name=hushino&theme=booru-qualityhentais&darkmode=auto"/>
 </div>
 <sub>
     <p align="center">
